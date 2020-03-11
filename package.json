@@ -1,6 +1,6 @@
 {
   "name": "@sebastian-inman-design/vue-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of reusable Vue components",
   "repository": "https://github.com/sebastian-inman-design/vue-components",
   "publishConfig": { 
