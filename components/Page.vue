@@ -12,7 +12,7 @@
 
   import {Component, Prop, Vue} from "vue-property-decorator";
 
-  import Breadcrumbs from "@/components/Breadcrumbs.vue";
+  import Breadcrumbs from "./Breadcrumbs.vue";
 
   @Component({
     components: {
